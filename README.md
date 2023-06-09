@@ -1,5 +1,5 @@
 # Baixar a miniatura do vídeo do YouTube com PHP e JS
-![Capa](img/capa.jpg)
+![Capa](img/imagem-capa.jpg)
 ## Sobre o projecto
 Formulário HTML, CSS, JS e PHP para Visualização e Download de Miniaturas de Vídeos do YouTube.
 
