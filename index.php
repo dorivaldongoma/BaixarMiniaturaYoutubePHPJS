@@ -7,7 +7,6 @@
     <meta name="author" content="Dorivaldo Ngoma">
     <meta name="description" content="Baixe a miniatura do vídeo do YouTube em PHP e JavaScript">
     <link rel="stylesheet" href="css/estilo.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
 </head>
 <body>
@@ -17,7 +16,7 @@
       <span class="titulo">Colar a url do vídeo:</span>
       <div class="campo">
           <label>
-              <input type="text" placeholder="https://www.youtube.com/watch?v=lqwdD2ivIbM" required>
+              <input type="text" placeholder="https://www.youtube.com/watch?v=lqwdD2ivIbM" name="url" required>
           </label>
           <input class="entrada-oculta" type="hidden" name="imgurl">
         <span class="linha-inferior"></span>
